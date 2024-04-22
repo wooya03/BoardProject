@@ -23,10 +23,7 @@ public class BoardServiceImpl implements BoardService{
         return arraylist;
     }
 
-    @Override
-    public Board getList(int id) {
-        return null;
-    }
+
 
     @Override
     public void remove(int id) {
