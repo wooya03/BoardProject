@@ -7,23 +7,23 @@ Event, Notice
 ### Function
 regist, list, modify, remove
 
-### regist
+#### regist
 <ul>
 <li> Board list addition </li>
 </ul>
 
-### list
+#### list
 <ul>
 <li> Board list Print</li>
 <li> All list print, Event list print, Notice list print </li>
 </ul>
 
-### modify
+#### modify
 <ul>
 <li> list contents modify</li>
 </ul>
 
-### remove
+#### remove
 <ul>
   <li> Delete list by ID </li>
 </ul>
