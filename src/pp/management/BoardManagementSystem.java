@@ -1,5 +1,4 @@
 package pp.management;
-
 import pp.model.Board;
 import pp.model.Event;
 import pp.model.Notice;
